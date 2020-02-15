@@ -19,8 +19,7 @@ My research area is functional programming. I have few years of experience worki
 
 1. *Graduate Student* (Sep'18 - present) <br />
    Department of Computer Science, <br />
-   The University of Hong Kong, <br />
-   Hong Kong. <br />
+   The University of Hong Kong. <br />
    Field of study: Functional programming
 
 2. *BS Computer Science* (Oct'11 - Jun'15) <br />

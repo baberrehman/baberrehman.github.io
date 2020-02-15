@@ -6,6 +6,9 @@ permalink: /
 
 {% include image.html url="images/photo.jpg" caption="" max_width="300px" align="right" %}
 
+Baber Rehman <br />
+Programming Languages Research @ HKU
+
 I am research postgraduate postgraduate student at the Department of Computer Science, University of Hong Kong since September 2018. I am working under the supervision of Dr. Bruno Oliveira.
 My research area is functional programming.
 
@@ -15,24 +18,24 @@ After spending four years in software development, I found gaps in software deve
 
 ## Academics
 
-1. **Graduate Student** (Sep'18 - present)
-   Department of Computer Science,
-   The University of Hong Kong,
-   Hong Kong.
+1. *Graduate Student* (Sep'18 - present) <br />
+   Department of Computer Science, <br />
+   The University of Hong Kong, <br />
+   Hong Kong. <br />
    Field of study: Functional programming
 
-2. **BS Computer Science** (Oct'11 - Jun'15)
-   PUCIT, University of the Punjab,
+2. *BS Computer Science* (Oct'11 - Jun'15) <br />
+   PUCIT, University of the Punjab, <br />
    Lahore, Pakistan.
 
 ## Professional Experience
 
-1. **DevOps Lead** (May'17 - Aug'18)
-   CloudPlex PVT LTD,
+1. *DevOps Lead* (May'17 - Aug'18) <br />
+   CloudPlex PVT LTD, <br />
    Lahore Pakistan.
 
-2. **DevOps Engineer** (May'15 - May'17)
-   CloudPlex PVT LTD,
+2. *DevOps Engineer* (May'15 - May'17) <br />
+   CloudPlex PVT LTD, <br />
    Lahore Pakistan.
 
 ## Conferences

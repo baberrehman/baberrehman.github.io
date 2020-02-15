@@ -45,16 +45,16 @@ My research area is functional programming. I have few years of experience worki
 
 ## Conferences
 
-1. Oregon Programming Languages Summer School 2019, <br />
-   University of Oregon, <br />
+1. International Conference on Functional Programming (Aug'19). <br />
+   Berlin, Germany.
+2. Oregon Programming Languages Summer School (Jun'19), University of Oregon. <br />
    Eugene, Oregon, United States.
 
-2. International Conference on Functional Programming 2019, <br />
-   Berlin, Germany.
-
+<div id="cv">
 ## Resume
 
 [Download PDF](files/cv.pdf).
+</div>
 
 ## Contact
 

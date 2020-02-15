@@ -5,7 +5,7 @@
     width: 100%;
     text-transform: uppercase;
     font-size: $small-font-size;
-    //@extend %clearfix;
+    @extend %clearfix;
 }
 
 .site-header, .site-header a {

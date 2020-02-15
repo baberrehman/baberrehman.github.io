@@ -13,6 +13,28 @@ I have more than four years of experience working in industry as Software Develo
 
 After spending four years in software development, I found gaps in software development and modern programming languages. Currently, I am pursuing research postgraduate studies at the University of Hong Kong, Hong Kong.
 
+## Academics
+
+1. **Graduate Student** (Sep'18 - present)
+   Department of Computer Science,
+   The University of Hong Kong,
+   Hong Kong.
+   Field of study: Functional programming
+
+2. **BS Computer Science** (Oct'11 - Jun'15)
+   PUCIT, University of the Punjab,
+   Lahore, Pakistan.
+
+## Professional Experience
+
+1. **DevOps Lead** (May'17 - Aug'18)
+   CloudPlex PVT LTD,
+   Lahore Pakistan.
+
+2. **DevOps Engineer** (May'15 - May'17)
+   CloudPlex PVT LTD,
+   Lahore Pakistan.
+
 ## Conferences
 
 1. Oregon Programming Languages Summer School 2019, University of Oregon, Eugene, Oregon, United States.
@@ -20,10 +42,7 @@ After spending four years in software development, I found gaps in software deve
 
 ## Resume
 
-Download [PDF version](files/cv.pdf).
-
-{% include embedpdf.html source="files/cv.pdf" width=100 height=800 %}
-
+[Download PDF](files/cv.pdf).
 
 ## Contact
 

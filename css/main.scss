@@ -36,7 +36,7 @@ $content-min-width:15em;
 $mobile:           32em;
 $desktop:          50em;
 
-$scroll-behavior: $smooth;
+scroll-behavior: smooth;
 
 @mixin media-query($device) {
     @media screen and (max-width: $device) {

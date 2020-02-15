@@ -1,9 +1,8 @@
 .site-header {
     border-bottom: 3px solid $line-color;
-    position: fixed;
-    top: 0;
+    position: relative;
     text-transform: uppercase;
-    font-size: $small-font-size;
+    font-size: $medium-font-size;
     @extend %clearfix;
 }
 

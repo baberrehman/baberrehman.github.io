@@ -20,7 +20,7 @@ $orange:     #ca6c18;
 $red:        #b6321c;
 
 $background:        $grey-vlight;
-$dark-background:   darken($background, 5%);
+$dark-background:   darken($background, 20%);
 $text-color:        $grey-vdark;
 $text-light-color:  $grey;
 $url-color:         $red;
@@ -35,6 +35,8 @@ $content-width:    50em;
 $content-min-width:15em;
 $mobile:           32em;
 $desktop:          50em;
+
+$scroll-behavior: $smooth;
 
 @mixin media-query($device) {
     @media screen and (max-width: $device) {

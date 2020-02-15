@@ -55,17 +55,13 @@ My research area is functional programming. I have few years of experience worki
    Eugene, Oregon, United States.
 
 <div id="cv">
-
-## Resume
-
-[Download PDF](files/cv.pdf).
+	## Resume
+	[Download PDF](files/cv.pdf).
 </div>
 
 <div id="publications">
-
-## Publications
-
-Coming soon...
+	## Publications
+	Coming soon...
 </div>
 
 <div id="contact">

@@ -1,6 +1,7 @@
 .site-header {
     border-bottom: 3px solid $line-color;
-    position: relative;
+    position: fixed;
+    width: relative;
     text-transform: uppercase;
     font-size: $medium-font-size;
     @extend %clearfix;

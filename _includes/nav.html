@@ -1,5 +1,4 @@
 <ul class="menu">
-    position: fixed
     {% for menu_item in site.data.menu %}
     {% if menu_item.subcategories != null %}
     <li><a href="{{ menu_item.href | prepend: site.baseurl }}" class="page-link">{{ menu_item.title }}</a>

@@ -4,6 +4,8 @@ title: About
 permalink: /
 ---
 
+<div id="about">
+
 {% include image.html url="images/photo.jpg" caption="" max_width="100px" max_height="100px" align="right" %}
 
 Baber Rehman <br />
@@ -12,6 +14,8 @@ Programming Languages Research @ HKU <br />
 
 I am a research postgraduate postgraduate student at the Department of Computer Science, University of Hong Kong since September 2018. I am working under the supervision of Dr. Bruno Oliveira.
 My research area is functional programming. I have few years of experience working in industry as DevOps Engineer and Lecturer.
+
+</div>
 
 ## Academics
 
@@ -51,10 +55,20 @@ My research area is functional programming. I have few years of experience worki
    Eugene, Oregon, United States.
 
 <div id="cv">
+
 ## Resume
 
 [Download PDF](files/cv.pdf).
 </div>
+
+<div id="publications">
+
+## Publications
+
+Coming soon...
+</div>
+
+<div id="contact">
 
 ## Contact
 
@@ -65,3 +79,4 @@ The University of Hong Kong<br />
 
 Office: Room 426 CYC Building<br />
 Email: [brehman@cs.hku.hk]
+</div>

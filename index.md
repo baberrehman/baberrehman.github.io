@@ -9,7 +9,7 @@ permalink: /
 Baber Rehman <br />
 Programming Languages Research @ HKU
 
-I am research postgraduate postgraduate student at the Department of Computer Science, University of Hong Kong since September 2018. I am working under the supervision of Dr. Bruno Oliveira.
+I am a research postgraduate postgraduate student at the Department of Computer Science, University of Hong Kong since September 2018. I am working under the supervision of Dr. Bruno Oliveira.
 My research area is functional programming.
 
 I have more than four years of experience working in industry as Software Developer, DevOps Engineer and Lecturer. Have worked with the leading IT companies in Pakistan including Mentor Graphics, Platalytics Inc. (CloudPlex), and University of the Punjab. I have hands on DevOps experience in the leading technologies including Golang, Scala, Haskell, Amazon Web Service, Chef, Dockers, API Development, Microsoft Azure, Computer Networking, PfSense, OpenVPN, VPCs, IPSec Tunneling, CI/CD (Jenkins) and Git.
@@ -28,7 +28,7 @@ After spending four years in software development, I found gaps in software deve
    PUCIT, University of the Punjab, <br />
    Lahore, Pakistan.
 
-## Professional Experience
+## Related Experience
 
 1. *DevOps Lead* (May'17 - Aug'18) <br />
    CloudPlex PVT LTD, <br />
@@ -40,8 +40,12 @@ After spending four years in software development, I found gaps in software deve
 
 ## Conferences
 
-1. Oregon Programming Languages Summer School 2019, University of Oregon, Eugene, Oregon, United States.
-2. International Conference on Functional Programming 2019, Berlin, Germany.
+1. Oregon Programming Languages Summer School 2019, <br />
+   University of Oregon, <br />
+   Eugene, Oregon, United States.
+
+2. International Conference on Functional Programming 2019, <br />
+   Berlin, Germany.
 
 ## Resume
 
@@ -55,4 +59,4 @@ Department of Computer Science<br />
 The University of Hong Kong<br />
 
 Office: Room 426 CYC Building<br />
-Email: [baberrehman26@gmail.com]
+Email: [brehman@cs.hku.hk]

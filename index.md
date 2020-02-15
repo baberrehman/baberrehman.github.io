@@ -10,11 +10,7 @@ Baber Rehman <br />
 Programming Languages Research @ HKU
 
 I am a research postgraduate postgraduate student at the Department of Computer Science, University of Hong Kong since September 2018. I am working under the supervision of Dr. Bruno Oliveira.
-My research area is functional programming.
-
-I have more than four years of experience working in industry as Software Developer, DevOps Engineer and Lecturer. Have worked with the leading IT companies in Pakistan including Mentor Graphics, Platalytics Inc. (CloudPlex), and University of the Punjab. I have hands on DevOps experience in the leading technologies including Golang, Scala, Haskell, Amazon Web Service, Chef, Dockers, API Development, Microsoft Azure, Computer Networking, PfSense, OpenVPN, VPCs, IPSec Tunneling, CI/CD (Jenkins) and Git.
-
-After spending four years in software development, I found gaps in software development and modern programming languages. Currently, I am pursuing research postgraduate studies at the University of Hong Kong, Hong Kong.
+My research area is functional programming. I have few years of experience working in industry as DevOps Engineer and Lecturer.
 
 ## Academics
 
@@ -28,15 +24,23 @@ After spending four years in software development, I found gaps in software deve
    PUCIT, University of the Punjab, <br />
    Lahore, Pakistan.
 
-## Related Experience
+## Industry Experience
 
 1. *DevOps Lead* (May'17 - Aug'18) <br />
    CloudPlex PVT LTD, <br />
-   Lahore Pakistan.
+   Lahore, Pakistan.
 
 2. *DevOps Engineer* (May'15 - May'17) <br />
    CloudPlex PVT LTD, <br />
-   Lahore Pakistan.
+   Lahore, Pakistan.
+
+## Teaching
+
+1. *Teacher Assistant* (Spring'20). Principals of Programming Languages. The University of Hong Kong.
+2. *Teacher Assistant* (Fall'18). Functional Programming. The University of Hong Kong.
+3. *Visiting Lecturer* (Oct'15 - Jun'16). PUCIT, University of the Punjab.
+4. *Teacher Assistant* (Oct'13 - Jun'15). PUCIT, University of the Punjab.
+
 
 ## Conferences
 

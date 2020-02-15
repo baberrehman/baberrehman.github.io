@@ -1,4 +1,4 @@
-# Much-Worse jekyll theme
+# Baber Rehman's homepage
 
 This theme is avaiable under [MIT License](https://opensource.org/licenses/MIT).
 

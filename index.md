@@ -36,6 +36,10 @@ My research area is functional programming. I have few years of experience worki
    CloudPlex PVT LTD, <br />
    Lahore, Pakistan.
 
+3. *Intern* (Jul'14 - Sep'14) <br />
+   Mentor Graphics, <br />
+   Lahore, Pakistan. 
+
 ## Teaching
 
 1. *Teacher Assistant* (Spring'20). Principals of Programming Languages. The University of Hong Kong.

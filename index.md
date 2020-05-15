@@ -60,9 +60,10 @@ My research area is functional programming. I have few years of experience worki
 [Download PDF](files/cv.pdf).
 
 ## Publications
-
-Coming soon...
-
+* The Duality of Subtyping
+[PDF](files/duo_ecoop2020.pdf) <br />
+Bruno C. d. S. Oliveira, Shaobo Cui and Baber Rehman <br />
+Accepted at ECOOP 2020, April 2020 
 
 ## Contact
 

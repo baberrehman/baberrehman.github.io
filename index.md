@@ -4,7 +4,9 @@ layout: page
 permalink: /
 ---
 
-{% include image.html url="images/Baber.jpg" caption="" width="50" height="50" align="right" %}
+<!--{% include image.html url="images/Baber.jpg" caption="" width="50" height="50" align="right" %} -->
+
+<img src="images/Baber.jpg" width="50" height="50" align="right" />
 
 ## About
 

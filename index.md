@@ -15,20 +15,20 @@ Programming Languages Research @ HKU <br />
 [[Github](https://github.com/baberrehman/)] | [[LinkedIn](https://www.linkedin.com/in/baberrehman/)] | [brehman@cs.hku.hk]
 
 I am a research postgraduate student at the Department of Computer Science, University of Hong Kong since September 2018. I am working under the supervision of Dr. Bruno Oliveira.
-My research area is functional programming. I have few years of experience working in industry as DevOps Engineer and Lecturer.
+My research area is functional programming. I have few years of experience working as DevOps Engineer and Lecturer.
 
 ## Academics
 
 1. *Graduate Student* (Sep'18 - present) <br />
    Department of Computer Science, <br />
    The University of Hong Kong. <br />
-   Field of study: Functional programming
+   Field of study: Programming Languages | Type Theory
 
 2. *BS Computer Science* (Oct'11 - Jun'15) <br />
    PUCIT, University of the Punjab, <br />
    Lahore, Pakistan.
 
-## Industry Experience
+## Experience
 
 1. *DevOps Lead* (May'17 - Aug'18) <br />
    CloudPlex PVT LTD, <br />

@@ -12,7 +12,7 @@ permalink: /
 
 Baber Rehman <br />
 Programming Languages Research @ HKU <br />
-[[Github](https://github.com/baberrehman/)] | [[LinkedIn](https://www.linkedin.com/in/baberrehman/)] | [brehman@cs.hku.hk]
+[[Github](https://github.com/baberrehman/)] | [[LinkedIn](https://www.linkedin.com/in/baberrehman/)] | [brehman at cs.hku.hk]
 
 I am a research postgraduate student at the Department of Computer Science, University of Hong Kong since September 2018. I am working under the supervision of Dr. Bruno Oliveira.
 My research area is functional programming. I have few years of experience working as DevOps Engineer and Lecturer.

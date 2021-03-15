@@ -19,7 +19,7 @@ My research area is functional programming. I have few years of experience worki
 
 ## Academics
 
-1. *Graduate Student* (Sep'18 - present) <br />
+1. *PhD Computer Science* (Sep'18 - present) <br />
    Department of Computer Science, <br />
    The University of Hong Kong. <br />
    Field of study: Programming Languages | Type Theory

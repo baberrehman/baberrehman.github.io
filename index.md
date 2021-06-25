@@ -30,15 +30,23 @@ My research area is functional programming. I have few years of experience worki
 
 ## Experience
 
-1. *DevOps Lead* (May'17 - Aug'18) <br />
+1. *Resident Tutor (part-time)* (Jan'21 - Present) <br />
+    New College, JCSV III, HKU <br />
+    Hong Kong.
+
+2. *Junior Resident Tutor (part-time)* (Aug'19 - Dec'20) <br />
+    New College, JCSV III, HKU <br />
+    Hong Kong.
+
+3. *DevOps Lead* (May'17 - Aug'18) <br />
    CloudPlex PVT LTD, <br />
    Lahore, Pakistan.
 
-2. *DevOps Engineer* (May'15 - May'17) <br />
+4. *DevOps Engineer* (May'15 - May'17) <br />
    CloudPlex PVT LTD, <br />
    Lahore, Pakistan.
 
-3. *Intern* (Jul'14 - Sep'14) <br />
+5. *Intern* (Jul'14 - Sep'14) <br />
    Mentor Graphics, <br />
    Lahore, Pakistan. 
 

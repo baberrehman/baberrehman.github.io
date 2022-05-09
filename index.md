@@ -76,6 +76,7 @@ Bruno C. d. S. Oliveira, Shaobo Cui, Baber Rehman <br />
 ECOOP 2020
 
 * Union Types with Disjoint Switches
+[ECOOP'22](https://2022.ecoop.org/details/ecoop-2022-papers/32/Union-Types-with-Disjoint-Switches) <br />
 Baber Rehman, Xuejing Huang, Ningning Xie, Bruno C. d. S. Oliveira <br />
 ECOOP 2022
 

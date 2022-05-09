@@ -72,8 +72,12 @@ My research area is functional programming. I have few years of experience worki
 ## Publications
 * The Duality of Subtyping
 [PDF](files/duo_ecoop2020.pdf) <br />
-Bruno C. d. S. Oliveira, Shaobo Cui and Baber Rehman <br />
+Bruno C. d. S. Oliveira, Shaobo Cui, Baber Rehman <br />
 ECOOP 2020
+
+* Union Types with Disjoint Switches
+Baber Rehman, Xuejing Huang, Ningning Xie, Bruno C. d. S. Oliveira <br />
+ECOOP 2022
 
 ## Contact
 

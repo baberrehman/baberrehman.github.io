@@ -15,14 +15,17 @@ Type Theory | Functional Programming <br />
 [[Github](https://github.com/baberrehman/)] | [[LinkedIn](https://www.linkedin.com/in/baberrehman/)] | [brehman (at) cs.hku.hk]
 
 I am a research postgraduate student at the Department of Computer Science, University of Hong Kong since September 2018. I am working under the supervision of Dr. Bruno Oliveira.
-My research area is functional programming. I have few years of experience working as DevOps Engineer.
+My research area revolves around type systems.
+I am mainly working with the integration of union types and intersection types.
+I have few years of experience working as DevOps Engineer.
 
 ## Academics
 
 1. *PhD Computer Science* (Sep'18 - present) <br />
    Department of Computer Science, <br />
    The University of Hong Kong. <br />
-   Field of study: Programming Languages | Type Theory
+   Field of study: Programming Languages | Type Theory <br />
+   *PS: Type systems are cool!*
 
 2. *BS Computer Science* (Oct'11 - Jun'15) <br />
    PUCIT, University of the Punjab, <br />
@@ -57,6 +60,12 @@ My research area is functional programming. I have few years of experience worki
 3. *Visiting Lecturer* (Oct'15 - Jun'16). PUCIT, University of the Punjab.
 4. *Teacher Assistant* (Oct'13 - Jun'15). PUCIT, University of the Punjab.
 
+## Community Service
+
+* Artifact Evaluation Commitee ECOOP 2022
+* Extended Review Commitee ECOOP 2022
+* Student Helper PLDI 2021
+
 
 ## Conferences
 
@@ -72,7 +81,7 @@ My research area is functional programming. I have few years of experience worki
 ## Publications
 
 * Union Types with Disjoint Switches
-[ECOOP'22](https://2022.ecoop.org/details/ecoop-2022-papers/32/Union-Types-with-Disjoint-Switches) <br />
+[PDF](files/ecoop2022.pdf) <br />
 Baber Rehman, Xuejing Huang, Ningning Xie, Bruno C. d. S. Oliveira <br />
 ECOOP 2022
 

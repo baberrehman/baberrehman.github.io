@@ -6,7 +6,7 @@ permalink: /
 
 <!--{% include image.html url="images/Baber.jpg" caption="" width="50" height="50" align="right" %} -->
 
-<img src="images/baber2.jpg" width="190" height="250" align="right" />
+<img src="images/baber2.JPG" width="190" height="250" align="right" />
 
 ## About
 

@@ -6,7 +6,7 @@ permalink: /
 
 <!--{% include image.html url="images/Baber.jpg" caption="" width="50" height="50" align="right" %} -->
 
-<img src="images/baber2.JPG" width="200" height="230" align="right" />
+<img src="images/baber2.JPG" width="200" height="220" align="right" />
 
 ## About
 
@@ -62,6 +62,7 @@ I have few years of experience working as DevOps Engineer.
 
 ## Community Service
 
+* Artifact Evaluation Commitee APLAS 2022
 * Artifact Evaluation Commitee ECOOP 2022
 * Extended Review Commitee ECOOP 2022
 * Student Helper PLDI 2021

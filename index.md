@@ -16,8 +16,10 @@ Type Theory | Functional Programming <br />
 
 I am a research postgraduate student at the Department of Computer Science, University of Hong Kong since September 2018. I am working under the supervision of Dr. Bruno Oliveira.
 My research area revolves around type systems.
-I am mainly working with the integration of union types and intersection types.
+Mainly, I am working with the integration of union types and intersection types.
 I have few years of experience working as DevOps Engineer.
+
+"Dynamic type is the weakening of union types to deal with heterogeneity."
 
 ## Academics
 

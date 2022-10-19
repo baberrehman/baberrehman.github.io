@@ -94,6 +94,11 @@ ECOOP 2022
 Bruno C. d. S. Oliveira, Shaobo Cui, Baber Rehman <br />
 ECOOP 2020
 
+## Unpublished Drafts / Reviews
+
+* DevSecOps: Necessity of the Modern Application Infrastructure
+[PDF](files/DevSecOps.pdf) <br />
+Baber Rehman
 
 ## Contact
 

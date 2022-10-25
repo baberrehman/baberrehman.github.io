@@ -21,6 +21,9 @@ I have few years of experience working as DevOps Engineer.
 
 "Dynamic type is the weakening of union types to deal with heterogeneity."
 
+I read about social issues, politics, and religion. Specifically, I wish to understand 
+the pragmatic aspects and necessity of political theories including religion.
+
 ## Academics
 
 1. *PhD Computer Science* (Sep'18 - present) <br />

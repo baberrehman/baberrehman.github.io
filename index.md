@@ -11,7 +11,7 @@ permalink: /
 ## About
 
 Baber Rehman <br />
-Type Theory | Functional Programming <br />
+Programming Languages | Type Theory | Functional Programming <br />
 [[Github](https://github.com/baberrehman/)] | [[LinkedIn](https://www.linkedin.com/in/baberrehman/)] | [brehman (at) cs.hku.hk]
 
 I am a research postgraduate student at the Department of Computer Science, University of Hong Kong since September 2018. I am working under the supervision of Dr. Bruno Oliveira.
@@ -97,7 +97,7 @@ ECOOP 2022
 Bruno C. d. S. Oliveira, Shaobo Cui, Baber Rehman <br />
 ECOOP 2020
 
-## Unpublished Drafts / Reviews
+### Unpublished Drafts / Reviews
 
 * DevSecOps: Necessity of the Modern Application Infrastructure
 [PDF](files/DevSecOps.pdf) <br />

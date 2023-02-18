@@ -14,15 +14,19 @@ Baber Rehman <br />
 Programming Languages | Type Theory | Functional Programming <br />
 [[Github](https://github.com/baberrehman/)] | [[LinkedIn](https://www.linkedin.com/in/baberrehman/)] | [brehman (at) cs.hku.hk]
 
-I am a research postgraduate student at the Department of Computer Science, University of Hong Kong since September 2018. I am working under the supervision of Dr. Bruno Oliveira.
-My research area revolves around type systems.
-Mainly, I am working with the integration of union types and intersection types.
-I have few years of experience working as DevOps Engineer.
+I am pursuing my PhD at the Department of Computer Science,
+University of Hong Kong, since September 2018. I am working
+under the supervision of Dr. Bruno Oliveira. My research
+area revolves around type systems. Mainly, I am working with
+the integration of intersection types union types.
+I have few years of experience working as a software engineer (DevOps).
 
-"Dynamic type is the weakening of union types to deal with heterogeneity."
+<!-- "Dynamic type is the weakening of union types to deal with heterogeneity." -->
 
-I read about social issues, politics, and religion. Specifically, I wish to understand 
-the pragmatic aspects and necessity of political theories including religion.
+I read about social issues, politics, and religion.
+Specifically, I wish to understand the pragmatics and
+necessity of political and religious theories. I am always
+open for such kind of (meaningful) discussions.
 
 ## Academics
 
@@ -46,11 +50,11 @@ the pragmatic aspects and necessity of political theories including religion.
     New College, JCSV III, HKU <br />
     Hong Kong.
 
-3. *DevOps Lead* (May'17 - Aug'18) <br />
+3. *Senior Software Engineer (DevOps)* (May'17 - Aug'18) <br />
    CloudPlex PVT LTD, <br />
    Lahore, Pakistan.
 
-4. *DevOps Engineer* (May'15 - May'17) <br />
+4. *Software Engineer (DevOps)* (May'15 - May'17) <br />
    CloudPlex PVT LTD, <br />
    Lahore, Pakistan.
 

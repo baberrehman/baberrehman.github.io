@@ -75,21 +75,23 @@ the pragmatic aspects and necessity of political theories including religion.
 * Student Helper PLDI 2021
 
 
+<!--
 ## Conferences
 
 1. International Conference on Functional Programming (Aug'19). <br />
    Berlin, Germany.
 2. Oregon Programming Languages Summer School (Jun'19), University of Oregon. <br />
    Eugene, Oregon, United States.
+-->
 
 ## CV
 
-[Download PDF](files/cv.pdf).
+[Download PDF](files/baber_cv.pdf).
 
 ## Publications
 
 * Union Types with Disjoint Switches
-[PDF](files/ecoop2022.pdf) <br />
+[PDF](files/switches_ecoop2022.pdf) <br />
 Baber Rehman, Xuejing Huang, Ningning Xie, Bruno C. d. S. Oliveira <br />
 ECOOP 2022
 
@@ -98,11 +100,24 @@ ECOOP 2022
 Bruno C. d. S. Oliveira, Shaobo Cui, Baber Rehman <br />
 ECOOP 2020
 
+### Artifacts
+
+* Union Types with Disjoint Switches (Artifact)
+[PDF](files/switches_ecoop2022_artifact.pdf) <br />
+Baber Rehman, Xuejing Huang, Ningning Xie, Bruno C. d. S. Oliveira <br />
+ECOOP 2022
+
+* The Duality of Subtyping (Artifact)
+[PDF](files/duo_ecoop2020_artifact.pdf) <br />
+Bruno C. d. S. Oliveira, Shaobo Cui, Baber Rehman <br />
+ECOOP 2020
+
 ### Unpublished Drafts / Reviews
 
 * DevSecOps: Necessity of the Modern Application Infrastructure
 [PDF](files/DevSecOps.pdf) <br />
 Baber Rehman
+
 
 ## Contact
 

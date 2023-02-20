@@ -18,8 +18,8 @@ I am pursuing my PhD at the Department of Computer Science,
 University of Hong Kong, since September 2018. I am working
 under the supervision of Dr. Bruno Oliveira. My research
 area revolves around type systems. Mainly, I am working with
-the integration of intersection types union types.
-I have few years of experience working as a software engineer (DevOps).
+the integration of intersection types and union types.
+I have a few years of experience working as a software engineer (DevOps).
 
 <!-- "Dynamic type is the weakening of union types to deal with heterogeneity." -->
 

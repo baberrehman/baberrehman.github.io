@@ -28,7 +28,7 @@ Specifically, I wish to understand the pragmatics and
 necessity of political and religious theories. I am always
 open for such kind of (meaningful) discussions.
 
-Imagin a world where everything is formally verified!
+<i> Imagine a world where everything is formally verified! </i>
 
 ## Academics
 

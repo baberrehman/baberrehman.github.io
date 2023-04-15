@@ -28,6 +28,8 @@ Specifically, I wish to understand the pragmatics and
 necessity of political and religious theories. I am always
 open for such kind of (meaningful) discussions.
 
+Imagin a world where everything is formally verified!
+
 ## Academics
 
 1. *PhD Computer Science* (Sep'18 - present) <br />

@@ -75,16 +75,16 @@ open for such kind of (meaningful) discussions.
 
 ### Review / Extended Review Committee
 
-* European Conference on Object-Oriented Programming 2023
-* European Conference on Object-Oriented Programming 2022
+* [European Conference on Object-Oriented Programming (ECOOP 2023)](https://2023.ecoop.org/)
+* [European Conference on Object-Oriented Programming (ECOOP 2022)](https://2022.ecoop.org/)
 
 ### Artifact Evaluation Committee
 
-* [USENIX Symposium on Operating Systems Design and Implementation 2023](https://www.usenix.org/conference/osdi23)
-* Artifact Evaluation Commitee ECOOP 2023
-* Artifact Evaluation Commitee POPL 2023
-* Artifact Evaluation Commitee APLAS 2022
-* Artifact Evaluation Commitee ECOOP 2022
+* [USENIX Symposium on Operating Systems Design and Implementation (OSDI 2023)](https://www.usenix.org/conference/osdi23)
+* [European Conference on Object-Oriented Programming (ECOOP 2023)](https://2023.ecoop.org/)
+* [Symposium on Principles of Programming Languages (POPL 2023)](https://popl23.sigplan.org/)
+* [Asian Symposium on Programming Languages and Systems (APLAS 2022)](https://conf.researchr.org/home/aplas-2022)
+* [European Conference on Object-Oriented Programming (ECOOP 2022)](https://2022.ecoop.org/)
 
 ### Miscellaneous
 

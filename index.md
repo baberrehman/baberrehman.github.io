@@ -73,13 +73,22 @@ open for such kind of (meaningful) discussions.
 
 ## Community Service
 
-* Extended Review Commitee ECOOP 2023
+### Review / Extended Review Committee
+
+* European Conference on Object-Oriented Programming 2023
+* European Conference on Object-Oriented Programming 2022
+
+### Artifact Evaluation Committee
+
+* [USENIX Symposium on Operating Systems Design and Implementation 2023](https://www.usenix.org/conference/osdi23)
 * Artifact Evaluation Commitee ECOOP 2023
 * Artifact Evaluation Commitee POPL 2023
 * Artifact Evaluation Commitee APLAS 2022
 * Artifact Evaluation Commitee ECOOP 2022
-* Extended Review Commitee ECOOP 2022
-* Student Helper PLDI 2021
+
+### Miscellaneous
+
+* Student helper PLDI 2021
 
 
 <!--

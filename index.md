@@ -27,6 +27,7 @@ I read about social issues, politics, and religion.
 Specifically, I wish to understand the pragmatics and
 necessity of political and religious theories. I am always
 open for such kind of (meaningful) discussions.
+Abstract of my this research is available [here](files/totality_of_system.pdf).
 
 <i> Imagine a world where everything is formally verified! </i>
 
@@ -129,6 +130,11 @@ Bruno C. d. S. Oliveira, Shaobo Cui, Baber Rehman <br />
 ECOOP 2020
 
 ### Unpublished Drafts / Reviews
+
+* Towards the Recognition of Pragmatics and Totality of Religion
+[PDF](files/totality_of_system.pdf) <br />
+Baber Rehman <br />
+<i>Abstract accepted at 18th International Conference on Philosophy</i>
 
 * DevSecOps: Necessity of the Modern Application Infrastructure
 [PDF](files/DevSecOps.pdf) <br />

@@ -108,6 +108,11 @@ Abstract of my this research is available [here](files/totality_of_system.pdf).
 
 ## Publications
 
+* Correctness-by-Construction meets Refinement Types
+[PDF](https://conf.researchr.org/track/ecoop-issta-2023/FTfJP-2023#event-overview) <br />
+Baber Rehman <br />
+FTfJP 2023
+
 * Union Types with Disjoint Switches
 [PDF](files/switches_ecoop2022.pdf) <br />
 Baber Rehman, Xuejing Huang, Ningning Xie, Bruno C. d. S. Oliveira <br />

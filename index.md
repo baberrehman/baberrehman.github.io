@@ -48,6 +48,14 @@ Abstract of my this research is available [here](files/totality_of_system.pdf).
 1. *Resident Tutor (part-time)* (Aug'19 - Present) <br />
     New College, JCSV III, HKU <br />
     Hong Kong.
+    
+2. *Software Engineer (DevOps)* (May'15 - Aug'18) <br />
+   CloudPlex PVT LTD, <br />
+   Lahore, Pakistan.
+
+3. *Intern* (Jul'14 - Sep'14) <br />
+   Mentor Graphics, <br />
+   Lahore, Pakistan. 
 
 <!-- 2. *Junior Resident Tutor (part-time)* (Aug'19 - Dec'20) <br />
     New College, JCSV III, HKU <br />
@@ -56,14 +64,6 @@ Abstract of my this research is available [here](files/totality_of_system.pdf).
 <!-- 3. *Senior Software Engineer (DevOps)* (May'17 - Aug'18) <br />
    CloudPlex PVT LTD, <br />
    Lahore, Pakistan. -->
-
-2. *Software Engineer (DevOps)* (May'15 - Aug'18) <br />
-   CloudPlex PVT LTD, <br />
-   Lahore, Pakistan.
-
-3. *Intern* (Jul'14 - Sep'14) <br />
-   Mentor Graphics, <br />
-   Lahore, Pakistan. 
 
 ## Teaching
 

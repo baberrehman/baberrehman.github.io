@@ -14,7 +14,7 @@ Baber Rehman <br />
 Programming Languages | Type Theory | Functional Programming <br />
 [[Github](https://github.com/baberrehman/)] | [[LinkedIn](https://www.linkedin.com/in/baberrehman/)] | [brehman (at) cs.hku.hk]
 
-I am pursuing my PhD at the Department of Computer Science,
+I am pursuing PhD at the Department of Computer Science,
 University of Hong Kong, since September 2018. I am working
 under the supervision of Dr. Bruno Oliveira. My research
 area revolves around type systems. Mainly, I am working with
@@ -45,23 +45,23 @@ Abstract of my this research is available [here](files/totality_of_system.pdf).
 
 ## Experience
 
-1. *Resident Tutor (part-time)* (Jan'21 - Present) <br />
+1. *Resident Tutor (part-time)* (Aug'19 - Present) <br />
     New College, JCSV III, HKU <br />
     Hong Kong.
 
-2. *Junior Resident Tutor (part-time)* (Aug'19 - Dec'20) <br />
+<!-- 2. *Junior Resident Tutor (part-time)* (Aug'19 - Dec'20) <br />
     New College, JCSV III, HKU <br />
-    Hong Kong.
+    Hong Kong. -->
 
-3. *Senior Software Engineer (DevOps)* (May'17 - Aug'18) <br />
+<!-- 3. *Senior Software Engineer (DevOps)* (May'17 - Aug'18) <br />
+   CloudPlex PVT LTD, <br />
+   Lahore, Pakistan. -->
+
+2. *Software Engineer (DevOps)* (May'15 - Aug'18) <br />
    CloudPlex PVT LTD, <br />
    Lahore, Pakistan.
 
-4. *Software Engineer (DevOps)* (May'15 - May'17) <br />
-   CloudPlex PVT LTD, <br />
-   Lahore, Pakistan.
-
-5. *Intern* (Jul'14 - Sep'14) <br />
+3. *Intern* (Jul'14 - Sep'14) <br />
    Mentor Graphics, <br />
    Lahore, Pakistan. 
 

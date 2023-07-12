@@ -110,34 +110,34 @@ Abstract of my this research is available [here](files/totality_of_system.pdf).
 
 * Type Soundness with Unrestricted Merges. (In Submission). <br />
 Baber Rehman and Bruno C. d. S. Oliveira <br />
-Journal of Functional Programming (JFP) 2023
+In <i>Journal of Functional Programming (JFP 2023)</i>
 
 * Correctness-by-Construction meets Refinement Types
 [PDF](https://conf.researchr.org/track/ecoop-issta-2023/FTfJP-2023#event-overview) <br />
 Baber Rehman <br />
-FTfJP 2023
+In <i>24th Workshop on Formal Techniques for Java-like Programs (FTfJP 2023).</i>
 
 * Union Types with Disjoint Switches
 [PDF](files/switches_ecoop2022.pdf) <br />
 Baber Rehman, Xuejing Huang, Ningning Xie and Bruno C. d. S. Oliveira <br />
-ECOOP 2022
+In <i>European Conference on Object-Oriented Programming (ECOOP 2022).</i>
 
 * The Duality of Subtyping
 [PDF](files/duo_ecoop2020.pdf) <br />
 Bruno C. d. S. Oliveira, Shaobo Cui and Baber Rehman <br />
-ECOOP 2020
+In <i>European Conference on Object-Oriented Programming (ECOOP 2020).</i>
 
 ### Artifacts
 
 * Union Types with Disjoint Switches (Artifact)
 [PDF](files/switches_ecoop2022_artifact.pdf) <br />
 Baber Rehman, Xuejing Huang, Ningning Xie and Bruno C. d. S. Oliveira <br />
-ECOOP 2022
+In <i>European Conference on Object-Oriented Programming (ECOOP 2022).</i>
 
 * The Duality of Subtyping (Artifact)
 [PDF](files/duo_ecoop2020_artifact.pdf) <br />
 Bruno C. d. S. Oliveira, Shaobo Cui and Baber Rehman <br />
-ECOOP 2020
+In <i>European Conference on Object-Oriented Programming (ECOOP 2020).</i>
 
 ### Unpublished Drafts / Reviews
 

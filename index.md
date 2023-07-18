@@ -109,8 +109,8 @@ Abstract of my this research is available [here](files/totality_of_system.pdf).
 ## Publications
 
 * Determinism with Intersection and Union Types
-[Abstract](files/paper_src_ecoop2023.pdf) [Poster](files/poster_src_ecoop2023.pdf) <br />
-Baber Rehman <br />
+[[Abstract]](files/paper_src_ecoop2023.pdf) [Poster](files/poster_src_ecoop2023.pdf) <br />
+Baber Rehman and Bruno C. d. S. Oliveira <br />
 In <i>Student Research Competition (ECOOP/ISSTA 2023)</i>
 
 * Type Soundness with Unrestricted Merges (In Submission) <br />

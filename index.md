@@ -108,6 +108,11 @@ Abstract of my this research is available [here](files/totality_of_system.pdf).
 
 ## Publications
 
+* Determinism with Intersection and Union Types
+[Abstract](files/paper_src_ecoop2023.pdf) [Poster](files/poster_src_ecoop2023.pdf) <br />
+Baber Rehman <br />
+In <i>Student Research Competition (ECOOP/ISSTA 2023)</i>
+
 * Type Soundness with Unrestricted Merges (In Submission) <br />
 Baber Rehman and Bruno C. d. S. Oliveira <br />
 In <i>Journal of Functional Programming (JFP 2023)</i>
@@ -115,7 +120,7 @@ In <i>Journal of Functional Programming (JFP 2023)</i>
 * Correctness-by-Construction meets Refinement Types
 [PDF](https://conf.researchr.org/track/ecoop-issta-2023/FTfJP-2023#event-overview) <br />
 Baber Rehman <br />
-In <i>24th Workshop on Formal Techniques for Java-like Programs (FTfJP 2023)</i>
+In <i>25th Workshop on Formal Techniques for Java-like Programs (FTfJP 2023)</i>
 
 * Union Types with Disjoint Switches
 [PDF](files/switches_ecoop2022.pdf) <br />

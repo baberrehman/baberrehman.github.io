@@ -123,36 +123,36 @@ Baber Rehman <br />
 In <i>25th Workshop on Formal Techniques for Java-like Programs (FTfJP 2023)</i>
 
 * Union Types with Disjoint Switches
-[PDF](files/switches_ecoop2022.pdf) <br />
+[[PDF](files/switches_ecoop2022.pdf)] <br />
 Baber Rehman, Xuejing Huang, Ningning Xie and Bruno C. d. S. Oliveira <br />
 In <i>European Conference on Object-Oriented Programming (ECOOP 2022)</i>
 
 * The Duality of Subtyping
-[PDF](files/duo_ecoop2020.pdf) <br />
+[[PDF](files/duo_ecoop2020.pdf)] <br />
 Bruno C. d. S. Oliveira, Shaobo Cui and Baber Rehman <br />
 In <i>European Conference on Object-Oriented Programming (ECOOP 2020)</i>
 
 ### Artifacts
 
 * Union Types with Disjoint Switches (Artifact)
-[PDF](files/switches_ecoop2022_artifact.pdf) <br />
+[[PDF](files/switches_ecoop2022_artifact.pdf)] <br />
 Baber Rehman, Xuejing Huang, Ningning Xie and Bruno C. d. S. Oliveira <br />
 In <i>European Conference on Object-Oriented Programming (ECOOP 2022)</i>
 
 * The Duality of Subtyping (Artifact)
-[PDF](files/duo_ecoop2020_artifact.pdf) <br />
+[[PDF](files/duo_ecoop2020_artifact.pdf)] <br />
 Bruno C. d. S. Oliveira, Shaobo Cui and Baber Rehman <br />
 In <i>European Conference on Object-Oriented Programming (ECOOP 2020)</i>
 
 ### Unpublished Drafts / Reviews
 
 * Towards the Recognition of Pragmatics and Totality of Religion
-[PDF](files/totality_of_system.pdf) <br />
+[[PDF](files/totality_of_system.pdf)] <br />
 Baber Rehman <br />
 <i>Abstract accepted at 18th International Conference on Philosophy</i>
 
 * DevSecOps: Necessity of the Modern Application Infrastructure
-[PDF](files/DevSecOps.pdf) <br />
+[[PDF](files/DevSecOps.pdf)] <br />
 Baber Rehman
 
 

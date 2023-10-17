@@ -33,7 +33,7 @@ Abstract of my this research is available [here](files/totality_of_system.pdf).
 
 ## Academics
 
-1. *PhD Computer Science* (Sep'18 - present) <br />
+1. *PhD Computer Science* (Sep'18 - Aug'23) <br />
    Department of Computer Science, <br />
    The University of Hong Kong. <br />
    Field of study: Programming Languages | Type Theory <br />
@@ -81,6 +81,7 @@ Abstract of my this research is available [here](files/totality_of_system.pdf).
 
 ### Artifact Evaluation Committee
 
+* [Symposium on Principles of Programming Languages (POPL 2024)](https://popl24.sigplan.org/)
 * [USENIX Annual Technical Conference (ATC 2023)](https://www.usenix.org/conference/atc23)
 * [USENIX Symposium on Operating Systems Design and Implementation (OSDI 2023)](https://www.usenix.org/conference/osdi23)
 * [European Conference on Object-Oriented Programming (ECOOP 2023)](https://2023.ecoop.org/)
@@ -107,6 +108,11 @@ Abstract of my this research is available [here](files/totality_of_system.pdf).
 [Download PDF](files/baber_cv.pdf).
 
 ## Publications
+
+* A Blend of Intersection Types and Union Types
+[[PDF](files/baber_thesis.pdf)] <br />
+Baber Rehman <br />
+<i>PhD Dissertation (August 2023)</i>
 
 * Determinism with Intersection and Union Types
 [[Abstract](files/paper_src_ecoop2023.pdf)] [[Poster](files/poster_src_ecoop2023.pdf)] <br />

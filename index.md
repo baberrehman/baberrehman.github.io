@@ -83,7 +83,7 @@ Abstract of my this research is available [here](files/totality_of_system.pdf).
 
 * [International Symposium on Software Testing and Analysis (ISSTA 2024)](https://conf.researchr.org/home/issta-2024)
 * [European Conference on Object-Oriented Programming (ECOOP 2024)](https://2024.ecoop.org/)
-* [Programming Languages Development and Implementation (PLDI 2024)](https://popl24.sigplan.org/)
+* [Programming Languages Development and Implementation (PLDI 2024)](https://pldi24.sigplan.org/)
 * [Symposium on Principles of Programming Languages (POPL 2024)](https://popl24.sigplan.org/)
 * [USENIX Annual Technical Conference (ATC 2023)](https://www.usenix.org/conference/atc23)
 * [USENIX Symposium on Operating Systems Design and Implementation (OSDI 2023)](https://www.usenix.org/conference/osdi23)

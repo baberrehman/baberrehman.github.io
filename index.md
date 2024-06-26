@@ -14,19 +14,14 @@ Baber Rehman <br />
 Programming Languages | Type Theory | Functional Programming <br />
 [[Github](https://github.com/baberrehman/)] | [[LinkedIn](https://www.linkedin.com/in/baberrehman/)] | [brehman (at) cs.hku.hk]
 
-I am pursuing PhD at the Department of Computer Science,
-University of Hong Kong, since September 2018. I am working
-under the supervision of Dr. Bruno Oliveira. My research
-area revolves around type systems. Mainly, I am working with
-the integration of intersection types and union types.
-I have a few years of experience working as a software engineer (DevOps).
+I am a PhD student in the Department of Computer Science at the University of Hong Kong, where I have been studying since September 2018. I am working under the supervision of Dr. Bruno Oliveira, and my research primarily focuses on type systems, with a particular emphasis on the integration of intersection types and union types.
+
+Prior to pursuing my doctoral degree, I gained several years of experience working as a software engineer in a DevOps role. This background has provided me with valuable practical knowledge and insights that I can apply to my current research.
 
 <!-- "Dynamic type is the weakening of union types to deal with heterogeneity." -->
 
-I read about social issues, politics, and religion.
-Specifically, I wish to understand the pragmatics and
-necessity of political and religious theories. I am always
-open for such kind of (meaningful) discussions.
+I have a keen interest in exploring the realm of social issues, politics, and religion. In particular, I'm eager to understand the pragmatics and underlying necessity of various political and religious theories.
+I'm always open to engaging in meaningful discussions on these complex and often nuanced topics. My aim is to gain a deeper, more comprehensive understanding of the rationale and societal implications behind different political and religious perspectives.
 Abstract of my this research is available [here](files/totality_of_system.pdf).
 
 <i> Imagine a world where everything is formally verified! </i>
@@ -45,7 +40,11 @@ Abstract of my this research is available [here](files/totality_of_system.pdf).
 
 ## Experience
 
-1. *Resident Tutor (part-time)* (Aug'19 - Present) <br />
+1. *Senior Engineer* (Nov'23 - Present) <br />
+    Huawei Technologies, Hong Kong Research Center <br />
+    Hong Kong.
+
+1. *Resident Tutor (part-time)* (Aug'19 - Oct'23) <br />
     New College, JCSV III, HKU <br />
     Hong Kong.
     
@@ -76,11 +75,15 @@ Abstract of my this research is available [here](files/totality_of_system.pdf).
 
 ### Review / Extended Review Committee
 
+* [European Conference on Object-Oriented Programming (ECOOP 2024)](https://2024.ecoop.org/)
 * [European Conference on Object-Oriented Programming (ECOOP 2023)](https://2023.ecoop.org/)
 * [European Conference on Object-Oriented Programming (ECOOP 2022)](https://2022.ecoop.org/)
 
 ### Artifact Evaluation Committee
 
+* [International Symposium on Software Testing and Analysis (ISSTA 2024)](https://conf.researchr.org/home/issta-2024)
+* [European Conference on Object-Oriented Programming (ECOOP 2024)](https://2024.ecoop.org/)
+* [Programming Languages Development and Implementation (PLDI 2024)](https://popl24.sigplan.org/)
 * [Symposium on Principles of Programming Languages (POPL 2024)](https://popl24.sigplan.org/)
 * [USENIX Annual Technical Conference (ATC 2023)](https://www.usenix.org/conference/atc23)
 * [USENIX Symposium on Operating Systems Design and Implementation (OSDI 2023)](https://www.usenix.org/conference/osdi23)
@@ -108,6 +111,10 @@ Abstract of my this research is available [here](files/totality_of_system.pdf).
 [Download PDF](files/baber_cv.pdf).
 
 ## Publications
+
+* Disjoint Polymorphism with Intersection and Union Types (In Submission) <br />
+Baber Rehman and Bruno C. d. S. Oliveira <br />
+In <i>26th Workshop on Formal Techniques for Java-like Programs (FTfJP 2024)</i>
 
 * A Blend of Intersection Types and Union Types
 [[PDF](files/baber_thesis.pdf)] <br />

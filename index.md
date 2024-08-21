@@ -14,7 +14,7 @@ Baber Rehman <br />
 Programming Languages | Type Theory | Functional Programming <br />
 [[Github](https://github.com/baberrehman/)] | [[LinkedIn](https://www.linkedin.com/in/baberrehman/)] | [brehman (at) cs.hku.hk]
 
-I am a PhD student in the Department of Computer Science at the University of Hong Kong, where I have been studying since September 2018. I am working under the supervision of Dr. Bruno Oliveira, and my research primarily focuses on type systems, with a particular emphasis on the integration of intersection types and union types.
+I hold a PhD in Programming Languages from the University of Hong Kong, where I have been studying until September 2018. I worked under the supervision of Dr. Bruno Oliveira, and my research primarily focuses on the design and implementation of programming languages, with a particular emphasis on the integration of intersection types and union types.
 
 Prior to pursuing my doctoral degree, I gained several years of experience working as a software engineer in a DevOps role. This background has provided me with valuable practical knowledge and insights that I can apply to my current research.
 
@@ -31,7 +31,7 @@ Abstract of my this research is available [here](files/totality_of_system.pdf).
 1. *PhD Computer Science* (Sep'18 - Aug'23) <br />
    Department of Computer Science, <br />
    The University of Hong Kong. <br />
-   Field of study: Programming Languages | Type Theory <br />
+   Specialization: Programming Languages | Type Theory | Formal Verification <br />
    *PS: Type systems are cool!*
 
 2. *BS Computer Science* (Oct'11 - Jun'15) <br />
@@ -40,9 +40,10 @@ Abstract of my this research is available [here](files/totality_of_system.pdf).
 
 ## Experience
 
-1. *Senior Engineer* (Nov'23 - Present) <br />
-    Huawei Technologies, Hong Kong Research Center <br />
-    Hong Kong.
+1. *Research Scholar* (Sep'18 - Present) <br />
+   Department of Computer Science, <br />
+   The University of Hong Kong. <br />
+   Specialization: Programming Languages | Type Theory | Formal Verification <br />
 
 1. *Resident Tutor (part-time)* (Aug'19 - Oct'23) <br />
     New College, JCSV III, HKU <br />

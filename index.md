@@ -14,7 +14,7 @@ Baber Rehman <br />
 Programming Languages | Type Theory | Functional Programming <br />
 [[Github](https://github.com/baberrehman/)] | [[LinkedIn](https://www.linkedin.com/in/baberrehman/)] | [brehman (at) cs.hku.hk]
 
-I hold a PhD in Programming Languages from the University of Hong Kong, where I have been studying until September 2018. I worked under the supervision of Dr. Bruno Oliveira, and my research primarily focuses on the design and implementation of programming languages, with a particular emphasis on the integration of intersection types and union types.
+I hold a PhD in Programming Languages from the University of Hong Kong, where I have been studying until August 2023. I worked under the supervision of Dr. Bruno Oliveira, and my research primarily focuses on the design and implementation of programming languages, with a particular emphasis on the integration of intersection types and union types.
 
 Prior to pursuing my doctoral degree, I gained several years of experience working as a software engineer in a DevOps role. This background has provided me with valuable practical knowledge and insights that I can apply to my current research.
 

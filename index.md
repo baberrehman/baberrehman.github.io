@@ -40,20 +40,24 @@ Abstract of my this research is available [here](files/totality_of_system.pdf).
 
 ## Experience
 
-1. *Research Scholar* (Sep'18 - Present) <br />
+1. *Compiler Engineer* (Nov'23 - Present) <br />
+   Huawei Technologies, Compilers Lab <br />
+   Hong Kong Research Center.
+
+2. *Research Scholar* (Sep'18 - Aug'23) <br />
    Department of Computer Science, <br />
    The University of Hong Kong. <br />
    Specialization: Programming Languages | Type Theory | Formal Verification <br />
 
-1. *Resident Tutor (part-time)* (Aug'19 - Oct'23) <br />
+3. *Resident Tutor (part-time)* (Aug'19 - Oct'23) <br />
     New College, JCSV III, HKU <br />
     Hong Kong.
     
-2. *Software Engineer (DevOps)* (May'15 - Aug'18) <br />
+4. *Software Engineer (DevOps)* (May'15 - Aug'18) <br />
    CloudPlex PVT LTD, <br />
    Lahore, Pakistan.
 
-3. *Intern* (Jul'14 - Sep'14) <br />
+5. *Intern* (Jul'14 - Sep'14) <br />
    Mentor Graphics, <br />
    Lahore, Pakistan. 
 

@@ -80,12 +80,17 @@ Abstract of my this research is available [here](files/totality_of_system.pdf).
 
 ### Review / Extended Review Committee
 
+* [Object-oriented Programming, Systems, Languages, and Applications (OOPSLA 2025)](https://2025.splashcon.org/)
 * [European Conference on Object-Oriented Programming (ECOOP 2024)](https://2024.ecoop.org/)
 * [European Conference on Object-Oriented Programming (ECOOP 2023)](https://2023.ecoop.org/)
 * [European Conference on Object-Oriented Programming (ECOOP 2022)](https://2022.ecoop.org/)
 
 ### Artifact Evaluation Committee
 
+* [International Symposium on Software Testing and Analysis (ISSTA 2025)](https://conf.researchr.org/home/issta-2025)
+* [European Conference on Object-Oriented Programming (ECOOP 2025)](https://2025.ecoop.org/)
+* [Object-oriented Programming, Systems, Languages, and Applications (OOPSLA 2025)](https://2025.splashcon.org/)
+* [Symposium on Principles of Programming Languages (POPL 2025)](https://popl25.sigplan.org/)
 * [International Symposium on Software Testing and Analysis (ISSTA 2024)](https://conf.researchr.org/home/issta-2024)
 * [European Conference on Object-Oriented Programming (ECOOP 2024)](https://2024.ecoop.org/)
 * [Programming Languages Development and Implementation (PLDI 2024)](https://pldi24.sigplan.org/)

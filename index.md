@@ -122,7 +122,13 @@ Abstract of my this research is available [here](files/totality_of_system.pdf).
 
 ## Publications
 
-* Disjoint Polymorphism with Intersection and Union Types (In Submission) <br />
+
+* Formal Specifications for Data Plane Programs (In Submission) <br />
+Keyu Yuan and Baber Rehman <br />
+In <i>2nd Workshop on Formal Methods Aided Network Operation (FMANO 2025)</i>
+
+* Disjoint Polymorphism with Intersection and Union Types
+[[PDF](files/FTFJP24.pdf)] <br />
 Baber Rehman and Bruno C. d. S. Oliveira <br />
 In <i>26th Workshop on Formal Techniques for Java-like Programs (FTfJP 2024)</i>
 

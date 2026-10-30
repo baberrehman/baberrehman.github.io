@@ -1,14 +1,17 @@
 #- title: "Research"
 #  href: "/research/"
 
-- title: "About"
-  href: "#about"
+- title: "Work"
+  href: "#work"
 
-- title: "CV"
-  href: "#cv"
+- title: "Research"
+  href: "#research"
 
 - title: "Publications"
-  href: "#publications"
+  href: "#selected-publications"
+
+- title: "Service"
+  href: "#service"
 
 - title: "Contact"
   href: "#contact"

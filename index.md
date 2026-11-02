@@ -52,14 +52,12 @@ Before that, a BS in Computer Science from PUCIT, University of the Punjab (2011
 
 Program committees and artifact evaluation, newest first.
 
-* ECOOP 2022–2026. Program committee 2026. Artifact evaluation 2022–2025. Extended review 2022–2024.
-* OOPSLA 2025–2026. Program committee 2025. Artifact evaluation 2026.
-* POPL 2023, 2024, 2026. Artifact evaluation.
-* PLDI 2024–2025. Artifact evaluation.
-* ISSTA 2024. Artifact evaluation.
-* ATC 2023. Artifact evaluation.
-* OSDI 2023. Artifact evaluation.
-* APLAS 2022. Artifact evaluation.
+* 2027: FormaliSE (AEC)
+* 2026: ECOOP (PC), OOPSLA (AEC), POPL (AEC)
+* 2025: ECOOP (AEC), OOPSLA (PC), PLDI (AEC)
+* 2024: ECOOP (AEC, ERC), POPL (AEC), PLDI (AEC), ISSTA (AEC)
+* 2023: ECOOP (AEC, ERC), POPL (AEC), ATC (AEC), OSDI (AEC)
+* 2022: ECOOP (AEC, ERC), APLAS (AEC)
 
 ## Teaching
 

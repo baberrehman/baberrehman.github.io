@@ -39,7 +39,7 @@ Before that, a BS in Computer Science from PUCIT, University of the Punjab (2011
 
 ### Also
 
-* Formal Specifications for Data Plane Programs. Keyu Yuan and Baber Rehman. FMANO 2025. In submission.
+* [Formal Specifications for Data Plane Programs](files/formal_specs_fmano2024.pdf). Keyu Yuan and Baber Rehman. FMANO 2025.
 * [Determinism with Intersection and Union Types](files/paper_src_ecoop2023.pdf). Baber Rehman and Bruno C. d. S. Oliveira. ECOOP/ISSTA student research competition, 2023. [Poster](files/poster_src_ecoop2023.pdf).
 * [Type Soundness with Unrestricted Merges](files/jfp_23.pdf). Baber Rehman and Bruno C. d. S. Oliveira. Journal of Functional Programming. In submission.
 

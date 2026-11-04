@@ -3,7 +3,7 @@ layout: page
 permalink: /
 ---
 
-<img src="images/baber.jpg" width="190" height="220" align="right" alt="Baber Rehman" />
+<img class="portrait" src="images/baber2.jpeg" alt="Baber Rehman" />
 
 AI compiler engineer at Huawei Hong Kong Research Center, and a PhD in programming languages from the University of Hong Kong. I build the stacks that take tile-level kernels through MLIR onto Huawei Ascend NPUs, and I work on the type systems that make language designs hold together.
 

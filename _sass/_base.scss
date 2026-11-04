@@ -47,6 +47,25 @@ img {
     vertical-align: middle;
 }
 
+img.portrait {
+    float: right;
+    width: 190px;
+    height: 190px;
+    margin: 0.15em 0 0.6em 1.15em;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: 22% 22%;
+    shape-outside: circle(50%);
+}
+
+@include media-query($mobile) {
+    img.portrait {
+        float: none;
+        display: block;
+        margin: 0 auto 1em;
+    }
+}
+
 // Figures
 figure > img {
     display: block;

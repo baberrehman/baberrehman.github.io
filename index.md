@@ -7,7 +7,7 @@ permalink: /
 
 AI compiler engineer at Huawei Hong Kong Research Center, and a PhD in programming languages from the University of Hong Kong. I build the stacks that take tile-level kernels through MLIR onto Huawei Ascend NPUs, and I work on the type systems that make language designs hold together.
 
-[GitHub](https://github.com/baberrehman/) · [LinkedIn](https://www.linkedin.com/in/baberrehman/) · [baberrehman26@gmail.com](mailto:baberrehman26@gmail.com) · [CV](files/baber_cv.pdf)
+[GitHub](https://github.com/baberrehman/) · [LinkedIn](https://www.linkedin.com/in/baberrehman/) · [Medium](https://medium.com/@baberrehman26) · [baberrehman26@gmail.com](mailto:baberrehman26@gmail.com) · [CV](files/baber_cv.pdf)
 
 ## Work
 
@@ -67,4 +67,5 @@ Teaching assistant for Functional Programming and Principles of Programming Lang
 
 Baber Rehman<br />
 [baberrehman26@gmail.com](mailto:baberrehman26@gmail.com)<br />
-[github.com/baberrehman](https://github.com/baberrehman/)
+[github.com/baberrehman](https://github.com/baberrehman/)<br />
+[medium.com/@baberrehman26](https://medium.com/@baberrehman26)
